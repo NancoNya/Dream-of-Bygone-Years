@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - Container
+  - NPC
+  - Item2Show
+  - ItemInter
+  - DialogManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Player
+  - 
+  - Ground
+  - Wall
+  - 
+  - NPC
+  - Container
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Front1
+    uniqueID: 848623367
+    locked: 0
+  - name: Front2
+    uniqueID: 1998629747
+    locked: 0
+  - name: Front3
+    uniqueID: 3498397233
+    locked: 0
+  - name: Middle1
+    uniqueID: 317670215
+    locked: 0
+  - name: Middle2
+    uniqueID: 1992034575
+    locked: 0
+  - name: Middle3
+    uniqueID: 2839400083
+    locked: 0
+  - name: Back1
+    uniqueID: 3011474595
+    locked: 0
+  - name: Back2
+    uniqueID: 3395025893
+    locked: 0
+  - name: Back3
+    uniqueID: 1102764585
+    locked: 0
