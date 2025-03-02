@@ -810,7 +810,7 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5f251cd899531d740bec23b5bbec05e6, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ab88f74173fc8b34fb77958d3e2f7bd7, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2998,7 +2998,7 @@ SpriteRenderer:
   m_Size: {x: 9.29, y: 10.37}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1019812080
@@ -3321,11 +3321,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bagItems: []
+  bagItemPrehabs: []
   bagImages:
   - {fileID: 1192043147}
   - {fileID: 870836021}
   - {fileID: 333948616}
   bagText: {fileID: 392888933}
+  bagItemPrehab: {fileID: 0}
   bagItem: {fileID: 0}
   mouse: {fileID: 0}
   isUse: 0

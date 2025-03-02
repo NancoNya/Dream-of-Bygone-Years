@@ -55,14 +55,14 @@ public class NewPlayer : CharacterBase
                     anim.SetBool("idle",false );
                     anim.SetBool("move",true);
                     direction = Vector2.right;
-                    transform.localScale = new Vector3(1, 1, 1);
+                    transform.localScale = new Vector3(5, 5, 5);
                 }
                 else if (Camera.main.ScreenToWorldPoint(Input.mousePosition).x - transform.position.x < -0.1)
                 {
                     anim.SetBool("idle", false);
                     anim.SetBool("move", true);
                     direction = Vector2.left;
-                    transform.localScale = new Vector3(-1, 1, 1);
+                    transform.localScale = new Vector3(-5, 5, 5);
                 }
                 else 
                 {
